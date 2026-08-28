@@ -1,5 +1,8 @@
-# Adaptive Process Monitor and Optimizer
+## Demo Video
 
+Watch the project demo here:
+https://youtu.be/k5-ywfB_C7A
+# Adaptive Process Monitor and Optimizer
 An Operating Systems project written in C for Linux. It monitors running processes, collects live data from the kernel, and optimizes CPU fairness by adjusting process scheduling priority.
 
 ## Project Requirements Covered
